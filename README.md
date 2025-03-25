@@ -1,6 +1,6 @@
 ## Boas vindas a esse perfil ao meu perfil 💙
 
-Meu nome é Mariana Lemos
+Meu nome é Maria Martins
 
 - Eu estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
